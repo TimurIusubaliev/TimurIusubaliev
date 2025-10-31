@@ -1,4 +1,4 @@
-##Timur Iusubaliev##
+# [Timur Iusubaliev](https://www.linkedin.com/in/timuryu/)
 
 💼 Founder & COO at [**plus8soft**](https://plus8soft.com) - Building custom software & dedicated dev teams
 
