@@ -1,4 +1,4 @@
-# [Timur Iusubaliev](https://www.linkedin.com/in/timuryu/)
+## [Timur Iusubaliev](https://www.linkedin.com/in/timuryu/)
 
 💼 Founder & COO at [**plus8soft**](https://plus8soft.com) - Building custom software & dedicated dev teams
 
@@ -10,6 +10,6 @@
 - 🏃 Active lifestyle
 
 **Background**
-📚 Stanford Graduate School of Business
-🌍 15+ years in IT business
-📍 Now based in Porto, Portugal 🇵🇹
+- 📚 Stanford Graduate School of Business
+- 🌍 15+ years in IT business
+- 📍 Now based in Porto, Portugal 🇵🇹
