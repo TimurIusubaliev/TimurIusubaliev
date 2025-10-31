@@ -1,5 +1,6 @@
 ##Timur Iusubaliev##
-💼 Currently working as: Founder & COO at plus8soft.com | Building custom software & dedicated dev teams
+
+💼 Currently working as: Founder & COO at [plus8soft](https://plus8soft.com) - Building custom software & dedicated dev teams
 Things I love:
 
 - 💻 Software development & team building
