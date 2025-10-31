@@ -1,4 +1,4 @@
-## Hi there 👋
+**Hi there 👋**
 
 **Timur Iusubaliev**
 💼 Currently working as: Founder & COO at plus8soft.com | Building custom software & dedicated dev teams
