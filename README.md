@@ -1,6 +1,6 @@
 ##Timur Iusubaliev##
 
-💼 Founder & COO at [plus8soft](https://plus8soft.com) - Building custom software & dedicated dev teams
+💼 Founder & COO at [**plus8soft**](https://plus8soft.com) - Building custom software & dedicated dev teams
 Things I love:
 
 - 💻 Software development & team building
