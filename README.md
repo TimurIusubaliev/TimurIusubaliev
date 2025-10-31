@@ -1,8 +1,5 @@
-**Hi there 👋**
-
-**Timur Iusubaliev**
+##Timur Iusubaliev##
 💼 Currently working as: Founder & COO at plus8soft.com | Building custom software & dedicated dev teams
-🚀 Co-founder at HelloWeHire - AI-powered recruitment platform (22 days → 2 days hiring time)
 Things I love:
 
 - 💻 Software development & team building
